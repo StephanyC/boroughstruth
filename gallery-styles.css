@@ -8,6 +8,7 @@
   padding: 1em;
 }
 
+/* Changed the width of everything to 100% so it fills out the grid. */
 .gallery>.container {
   position: relative;
   width: 100%;
